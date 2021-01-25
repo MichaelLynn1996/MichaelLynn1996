@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+### Code Stats
+
+![MichaelLynn1996's github readme stats](https://github-readme-stats.vercel.app/api?username=MichaelLynn1996&show_icons=true&theme=dracula)
+
 <!--
 **MichaelLynn1996/MichaelLynn1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
